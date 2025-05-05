@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Carla Cristina Marcelino Rodrigues</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
+<img align="center" alt="" src="./src/header-gif.gif">
 
-![snake animation](https://github.com/<cah-rodrigues>/<cah-rodrigues>/blob/output/github-contribution-grid-snake2.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cah-rodrigues/cah-rodrigues/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cah-rodrigues/cah-rodrigues/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cah-rodrigues/cah-rodrigues/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cah-rodrigues" alt="cah-rodrigues" /></a></div>
 

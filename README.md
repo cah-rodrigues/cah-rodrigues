@@ -3,9 +3,9 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cah-rodrigues/cah-rodrigues/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cah-rodrigues/cah-rodrigues/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cah-rodrigues/cah-rodrigues/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
 <div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cah-rodrigues" alt="cah-rodrigues" /></a></div>

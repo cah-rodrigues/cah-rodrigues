@@ -2,12 +2,6 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <img align="center" alt="" src="./src/header-gif.gif">
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 <div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cah-rodrigues" alt="cah-rodrigues" /></a></div>
 
 <div align="center">

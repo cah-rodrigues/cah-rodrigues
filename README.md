@@ -17,6 +17,27 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
+
+<h4>🇧🇷 Sobre mim:</h4>
+
+<p>Olá! Meu nome é Carla Rodrigues, e sou Desenvolvedora Front-End Júnior apaixonada por construir interfaces funcionais, acessíveis e visualmente atrativas.
+
+Atualmente, estou aprimorando minhas habilidades em React.js, JavaScript, HTML, CSS e UX/UI Design. Amo transformar ideias em experiências digitais e estou sempre em busca de novos desafios para crescer como desenvolvedora.
+
+Aqui você encontrará alguns dos meus projetos pessoais, exercícios de estudo e desafios de cursos que venho desenvolvendo ao longo da minha jornada na área tech.</p>
+
+- 🔭 Atualmente estou trabalhando no **meu novo portfólio**
+
+- 🌱 No momento estou aprendendo **CSS, JS, React.js, Next.js**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://portfolio-oficial-cr.vercel.app/](https://portfolio-oficial-cr.vercel.app/)
+
+- 📫 Entre em contato comigo: **carlarodrigues.dev@gmail.com**
+
+⚡ Pensamento aleatório: **Acredito que se eu fosse uma fada, seria uma artesã como a Tinker Bell, porque amo construir, produzir, consertar e transformar qualquer coisa, desde casas até brinquedos, de vestidos a bolsas. Minhas mãos amam trabalhar, meu cérebro ama encontrar soluções e meu coração ama a satisfação de transformar esforço em algo útil, bonito e cheio de significado.**
+
+<p align="center">⭐⭐⭐</p>
+
 <h4>🇺🇲 About me:</h4>
 
 <p>Hi! My name is Carla Rodrigues, and I'm a Junior Front-End Developer passionate about building functional, accessible, and visually appealing user interfaces.
@@ -37,24 +58,24 @@ Here you'll find some of my personal projects, study exercises, and course chall
 
 <p align="center">⭐⭐⭐</p>
 
-<h4>🇧🇷 Sobre mim:</h4>
+<h4>🇪🇸 Sobre mí:</h4>
 
-<p>Olá! Meu nome é Carla Rodrigues, e sou Desenvolvedora Front-End Júnior apaixonada por construir interfaces funcionais, acessíveis e visualmente atrativas.
+<p>¡Hola! Mi nombre es Carla Rodrigues y soy Desarrolladora Front-End Junior, apasionada por construir interfaces funcionales, accesibles y visualmente atractivas.
 
-Atualmente, estou aprimorando minhas habilidades em React.js, JavaScript, HTML, CSS e UX/UI Design. Amo transformar ideias em experiências digitais e estou sempre em busca de novos desafios para crescer como desenvolvedora.
+Actualmente estoy mejorando mis habilidades en React.js, JavaScript, HTML, CSS y Diseño UX/UI. Me encanta transformar ideas en experiencias digitales y siempre estoy buscando nuevos desafíos para crecer como desarrolladora.
 
-Aqui você encontrará alguns dos meus projetos pessoais, exercícios de estudo e desafios de cursos que venho desenvolvendo ao longo da minha jornada na área tech.</p>
+Aquí encontrarás algunos de mis proyectos personales, ejercicios de estudio y desafíos de cursos que he estado desarrollando a lo largo de mi trayectoria en el mundo tech.</p>
 
-- 🔭 Atualmente estou trabalhando no **meu novo portfólio**
+- 🔭 Actualmente estoy trabajando en **mi nuevo portafolio**
 
-- 🌱 No momento estou aprendendo **CSS, JS, React.js, Next.js**
+- 🌱 Actualmente estoy aprendiendo **CSS, JS, React.js, Next.js**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://portfolio-oficial-cr.vercel.app/](https://portfolio-oficial-cr.vercel.app/)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio-oficial-cr.vercel.app/](https://portfolio-oficial-cr.vercel.app/)
 
-- 📫 Entre em contato comigo: **carlarodrigues.dev@gmail.com**
+- 📫 Puedes contactarme en: **carlarodrigues.dev@gmail.com**
 
-⚡ Pensamento aleatório: **Acredito que se eu fosse uma fada, seria uma artesã como a Tinker Bell, porque amo construir, produzir, consertar e transformar qualquer coisa, desde casas até brinquedos, de vestidos a bolsas. Minhas mãos amam trabalhar, meu cérebro ama encontrar soluções e meu coração ama a satisfação de transformar esforço em algo útil, bonito e cheio de significado.**
-
+⚡ Dato curioso: **Creo que si fuera un hada, sería un hada artesana como Tinker Bell, porque me encanta construir, producir, reparar y transformar cualquier cosa, desde construcción civil hasta juguetes, vestidos o bolsos. Mis manos aman trabajar, mi cerebro ama encontrar soluciones y mi corazón ama la satisfacción de transformar el esfuerzo en algo útil, hermoso y lleno de significado.**
+<p align="center">⭐⭐⭐</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

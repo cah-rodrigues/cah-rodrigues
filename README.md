@@ -30,7 +30,7 @@ Aqui você encontrará alguns dos meus projetos pessoais, exercícios de estudo 
 
 - 🌱 No momento estou aprendendo **CSS, JS, React.js, Next.js**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://portfolio-oficia-git-cf8072-carla-cristina-m-rodrigues-projects.vercel.app/]
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://cah-rodrigues.github.io/portfolio-carla-cristina-rodrigues/]
 
 - 📫 Entre em contato comigo: **carlarodrigues.dev@gmail.com**
 
@@ -50,7 +50,7 @@ Here you'll find some of my personal projects, study exercises, and course chall
 
 - 🌱 I’m currently learning **CSS, JS, React.js, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-oficia-git-cf8072-carla-cristina-m-rodrigues-projects.vercel.app/]
+- 👨‍💻 All of my projects are available at [https://cah-rodrigues.github.io/portfolio-carla-cristina-rodrigues/]
 - 📫 How to reach me **carlarodrigues.dev@gmail.com**
 
 ⚡ Fun fact **I believe that if I were a fairy I would be a tinker, like Tinker Bell because I love to build, produce, repair and transform anything, from civil construction to toys, dresses or bags, my hands love to work, my brain loves to find solutions and my heart loves the satisfaction of transforming effort into something useful, beautiful and full of meaning.**
@@ -69,7 +69,7 @@ Aquí encontrarás algunos de mis proyectos personales, ejercicios de estudio y 
 
 - 🌱 Actualmente estoy aprendiendo **CSS, JS, React.js, Next.js**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://portfolio-oficia-git-cf8072-carla-cristina-m-rodrigues-projects.vercel.app/]
+- 👨‍💻 Todos mis proyectos están disponibles en [https://cah-rodrigues.github.io/portfolio-carla-cristina-rodrigues/]
 - 📫 Puedes contactarme en: **carlarodrigues.dev@gmail.com**
 
 ⚡ Dato curioso: **Creo que si fuera un hada, sería un hada artesana como Tinker Bell, porque me encanta construir, producir, reparar y transformar cualquier cosa, desde construcción civil hasta juguetes, vestidos o bolsos. Mis manos aman trabajar, mi cerebro ama encontrar soluciones y mi corazón ama la satisfacción de transformar el esfuerzo en algo útil, hermoso y lleno de significado.**
